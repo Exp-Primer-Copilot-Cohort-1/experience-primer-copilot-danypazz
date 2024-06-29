@@ -1,0 +1,6 @@
+{
+    "name": "Codespace for Skills!",
+    "extensions": [
+        "GitHub.copilot"
+    ]
+}
